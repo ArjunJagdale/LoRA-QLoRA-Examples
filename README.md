@@ -1,5 +1,5 @@
 # LoRA-QLoRA-Examples
-This repository contains all the notebooks implemented and solved during the finetuning course by Codecademy.
+This repository contains all the finetuning basics and techniques. I have also mentioned the notebooks required to fine-tune BERT based on the IMDB dataset.
 
 
 Here is the link to my certification - https://www.codecademy.com/profiles/ArjunJagdale/certificates/c48eab73789f42f49e97464d5ffdeb06
